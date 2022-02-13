@@ -11,6 +11,7 @@ To install this app all you have to do is clone the repository, and then run npm
 ## Usage 
 
 To use this app you need to type npm start into the console or you can visit the webpage it is deployed to.
+[Deployed Website](https://obscure-crag-10516.herokuapp.com/notes)
 
 ## Screenshot
 
